@@ -1,0 +1,23 @@
+{
+  "name": "sast_demo_feb1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barmakoWS/js_ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barmakoWS/js_ex/issues"
+  },
+  "homepage": "https://github.com/barmakoWS/js_ex#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg-promise": "^10.11.1"
+  }
+}
